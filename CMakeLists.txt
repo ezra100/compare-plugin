@@ -61,6 +61,7 @@ set (project_sources
     src/ProgressDlg/ProgressDlg.cpp
     src/Engine/Engine.cpp
     src/Tools.cpp
+    src/UserSettings.cpp
     src/Compare.cpp
     src/LibGit2/LibGit2Helper.cpp
     src/NppHelpers.cpp
